@@ -1,0 +1,122 @@
+---
+title: "Formation Ms Project"
+author: "Jean Leon Zue Ondo"
+format: html
+editor: visual
+---
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+## 1. Créer un planning structuré et optimisé
+
+<br>
+
+## 1.1. Introduction à MS Project
+
+<br>
+
+### 1.1.1. Vue d’ensemble de l’interface
+
+<br>
+
+![](project-im-01.png)
+
+<br>
+
+### 1.1.2. Création d’un nouveau projet
+
+<br>
+
+Selon le paramétrage initial de vos options générales, deux écrans d’accueil sont possibles au démarrage de l’outil :
+
+-   un nouveau projet appelé par défaut « Projet1 »
+
+-   la page de démarrage de MS Project
+
+    — Lancez MS Project.
+
+    — MS Project démarre sur un **nouveau projet** appelé par défaut **Projet1**
+
+    <br>
+
+|  |  |
+|-------------------------------------|-----------------------------------|
+| ![](project-im-02.png){width="398" height="241"} | ![](project-im-01.png){width="324"} |
+
+------------------------------------------------------------------------
+
+#### projet fil rouge
+
+créer un nouveau projet et enregistré les informations de ce projet
+
+::: {#fil-rouge style="color: blue"}
+-   Allez dans l’onglet **Fichier**, puis cliquez sur **Informations**.
+
+-   Dans l’interface **Informations**, cliquez sur **Informations sur le projet**, puis sélectionnez l’option **Propriétés avancées**.
+
+    ![](project-im-03.png)
+
+Dans la boîte de dialogue **Propriétés de Vélo MMO**, renseignez les informations suivantes :
+
+-   **Titre : VÉLO MMO**
+
+-   **Sujet : Externalisation de la fabrication des moteurs électriques**
+
+-   **Auteur** : par défaut, c’est le nom de l’utilisateur Windows
+
+-   **Responsable** : votre nom
+
+-   **Société : VÉLO MMO**
+
+-   **Catégorie : Projet**
+
+**Maintenant, vous allez renseigner la date de début du projet.** 
+
+-   Cliquez sur l’onglet **Projet**, puis sur **Informations sur le projet**.
+
+-   Vous remarquez que, par défaut, la liste déroulante  **Prévision à partir de**  est positionnée sur **Date de début** du projet. Renseignez la **Date début** : **le 2 Avril 2018**.
+
+    ![](project-im-04.png)
+:::
+
+<br>
+
+### Creer le Calendrier du projet
+
+<br>
+
+Le paramétrage du calendrier du projet permet de tenir compte des jours chômés, durant lesquels la réalisation des tâches ne peut être possible. Cela permet d’améliorer la précision de la planification et de rendre le plan de projet plus réaliste.
+
+::: {.callout-tip appearance="simple"}
+# projet-fil-rouge : Creer le calendrier du projet
+
+<br>
+
+-   Dans l’onglet **Projet**, cliquez sur le bouton **Modifier les horaires de travail**.
+
+La boîte de dialogue **Modifier les horaires de travail** s’affiche à l’écran.
+
+![](project-im-05.png){width="491"}
+
+-   Cliquez sur le bouton **Créer un nouveau calendrier** en haut à droite de la boîte de dialogue **Modifier les horaires de travail**.
+
+    ![](project-im-06.png){width="432"}
+
+<!-- -->
+
+-   **Créer un nouveau calendrier de base** : il s’agit de la création d’un calendrier à partir de rien.
+
+-   **Faire une copie du** : il s’agit de créer un calendrier à partir d’un calendrier existant.
+
+-    Pour le projet VÉLO MMO, nous vous proposons de créer le calendrier à partir du calendrier **Standard**, laissez cochée l’option **Faire une copie du Standard**.
+
+-   Dans la zone **Nom** siasissez Projet VÉLO MMO, puis cliquez sur **OK**
+:::
+
+## 2. Création du planning
+
+<br>
+
+### Création des tâches, jalons, tâches récapitulatives
